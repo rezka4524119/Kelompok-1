@@ -1,5 +1,7 @@
 # Laporan Etika Profesi - Kelompok 1
-
+<p align="center">
+  <img src="logo up.png" width="150">
+</p>
 ## Tema
 **Klaster A: Keamanan Siber & Kebocoran Data**
 
