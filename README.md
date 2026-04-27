@@ -86,6 +86,7 @@ Keamanan Teknis:
 ● Segmentasi jaringan.  
 
 Manajemen Risiko:
+
 ● Audit keamanan berkala.  
 ● Update BCP/DRP.  
 ● Simulasi serangan siber.  
@@ -93,6 +94,7 @@ Manajemen Risiko:
 ● Pelatihan pegawai.  
 
 Komunikasi:
+
 ● Transparansi cepat.  
 ● Pusat informasi resmi.  
 
