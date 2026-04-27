@@ -26,7 +26,8 @@ Selain itu, diduga terjadi kebocoran data sebesar 1,5 TB yang mencakup data nasa
 - Laporan Etika Profesi_Kelompok 1.pdf  
 - PPT_Etika Profesi_Kelompok 1.pdf
 
-- ## BAB IV  
+
+## BAB IV  
 # SOLUSI DAN REKOMENDASI
 
 ### 4.1 Untuk Bank / Perusahaan
