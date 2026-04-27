@@ -7,6 +7,9 @@ Studi Kasus: Ransomware Bank Syariah Indonesia (BSI) — Mei 2023
 
 ---
 
+# Informasi Tambahan
+Dosen Pengampu: Adi Wahyu Pribadi, S.Si., M.Kom
+
 # Deskripsi Kasus
 Serangan ransomware *LockBit 3.0* melumpuhkan layanan Bank Syariah Indonesia (BSI) selama beberapa hari.  
 Selain itu, diduga terjadi kebocoran data sebesar **1,5 TB** yang mencakup data nasabah dan karyawan.
@@ -34,9 +37,7 @@ Selain itu, diduga terjadi kebocoran data sebesar **1,5 TB** yang mencakup data 
 - PPT_Etika Profesi_Kelompok 1.pdf  
 
 ---
-
-# Informasi Tambahan
-Dosen Pengampu: Adi Wahyu Pribadi, S.Si., M.Kom 
+ 
 
 # DAFTAR ISI
 
