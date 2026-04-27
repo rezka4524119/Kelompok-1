@@ -37,6 +37,12 @@ Lembaga keuangan wajib memiliki keamanan siber yang kuat, BCP/DRP yang matang, S
 
 ---
 
+### 5.2 Saran
+1. Bank harus meningkatkan investasi keamanan siber.  
+2. Audit dan simulasi insiden dilakukan berkala.  
+3. Edukasi pegawai dan nasabah harus diperkuat.  
+4. Kepatuhan hukum dan etika profesi harus menjadi prioritas.
+
 ## DAFTAR PUSTAKA
 
 - Bank Syariah Indonesia. (2023). *Laporan Resmi Gangguan Layanan Mei 2023*.  
@@ -49,9 +55,3 @@ Lembaga keuangan wajib memiliki keamanan siber yang kuat, BCP/DRP yang matang, S
 - Republik Indonesia. (2008). *Undang-Undang Informasi dan Transaksi Elektronik (UU ITE)*.  
 - IBM. (2023). *Cost of a Data Breach Report*.  
 - Kaspersky. (2023). *Ransomware Threat Report*.  
-
-### 5.2 Saran
-1. Bank harus meningkatkan investasi keamanan siber.  
-2. Audit dan simulasi insiden dilakukan berkala.  
-3. Edukasi pegawai dan nasabah harus diperkuat.  
-4. Kepatuhan hukum dan etika profesi harus menjadi prioritas.  
