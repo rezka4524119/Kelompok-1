@@ -46,9 +46,9 @@ Dosen Pengampu: Adi Wahyu Pribadi, S.Si., M.Kom
 ---
 
 # BAB I PENDAHULUAN
-# 1.1 Latar Belakang  
-# 1.2 Rumusan Masalah  
-# 1.3 Tujuan Penulisan  
+## 1.1 Latar Belakang  
+## 1.2 Rumusan Masalah  
+## 1.3 Tujuan Penulisan  
 
 ---
 
