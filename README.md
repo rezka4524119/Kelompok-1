@@ -36,37 +36,47 @@ Selain itu, diduga terjadi kebocoran data sebesar **1,5 TB** yang mencakup data 
 ---
 
 ## Informasi Tambahan
-Dosen Pengampu: (ISI NAMA DOSEN DI SINI)  
-Tahun Ajaran: 2025 / 2026
+Dosen Pengampu: Adi Wahyu Pribadi, S.Si., M.Kom 
+Tahun Ajaran: 2026 / 2027
 
-# BAB I PENDAHULUAN
+## 📑 DAFTAR ISI
 
-## 1.1 Latar Belakang
-Perkembangan teknologi informasi mendorong perubahan besar dalam sektor perbankan. Saat ini hampir seluruh layanan bank dijalankan melalui sistem digital seperti mobile banking, ATM, internet banking, transfer dana, pembayaran tagihan, pembukaan rekening online, dan layanan pelanggan digital.
+```
+KATA PENGANTAR ......................................................... i
+DAFTAR ISI .............................................................. ii
 
-Sistem digital memberikan kecepatan, efisiensi, dan kemudahan bagi masyarakat. Namun, di balik manfaat tersebut terdapat risiko ancaman keamanan siber. Ketika sistem bank mengalami gangguan akibat serangan siber, dampaknya tidak hanya dirasakan oleh perusahaan, tetapi juga oleh jutaan nasabah yang bergantung pada layanan tersebut untuk kebutuhan sehari-hari.
+BAB I PENDAHULUAN
+  1.1 Latar Belakang .................................................... 1
+  1.2 Rumusan Masalah ................................................... 2
+  1.3 Tujuan Penulisan ................................................. 2
 
-Pada Mei 2023, BSI mengalami gangguan besar yang diduga akibat serangan ransomware LockBit 3.0. Gangguan berlangsung selama beberapa hari dan menimbulkan dugaan kebocoran data sekitar 1,5 TB. Kasus ini menjadi perhatian nasional karena menyangkut keamanan data, layanan publik, kepercayaan masyarakat, dan tanggung jawab profesional di bidang teknologi informasi.
+BAB II LANDASAN TEORI
+  2.1 Keamanan Siber ................................................... 3
+  2.2 Ransomware ....................................................... 3
+  2.3 Business Continuity Plan (BCP) ................................... 3
+  2.4 Disaster Recovery Plan (DRP) ..................................... 3
+  2.5 Transparansi Publik .............................................. 4
 
----
+BAB III ANALISIS KASUS DAN PEMBAHASAN
+  3.1 Profil Singkat BSI ............................................... 5
+  3.2 Kronologi Kasus .................................................. 5
+  3.3 Analisis Tanggung Jawab BCP ...................................... 5
+  3.4 Analisis Tanggung Jawab DRP ...................................... 5
+  3.5 Analisis Transparansi Publik ..................................... 7
+  3.6 Dampak terhadap Nasabah .......................................... 8
+  3.7 Analisis Etika Profesi ........................................... 9
+  3.8 Analisis Hukum ................................................... 9
 
-## 1.2 Rumusan Masalah
-1. Bagaimana kronologi kasus ransomware BSI pada Mei 2023?
-2. Apa yang dimaksud ransomware dan bagaimana cara kerjanya?
-3. Bagaimana tanggung jawab BCP dan DRP dalam kasus tersebut?
-4. Mengapa transparansi kepada publik sangat penting?
-5. Apa dampak gangguan layanan terhadap nasabah?
-6. Bagaimana analisis etika profesi dan hukum pada kasus ini?
-7. Apa solusi yang dapat diterapkan agar kasus serupa tidak terulang?
+BAB IV SOLUSI DAN REKOMENDASI
+  4.1 Untuk Bank / Perusahaan .......................................... 10
+  4.2 Untuk Nasabah .................................................... 11
+  4.3 Pelajaran yang Dapat Diambil ..................................... 11
 
----
+BAB V PENUTUP
+  5.1 Kesimpulan ....................................................... 12
+  5.2 Saran ............................................................ 12
 
-## 1.3 Tujuan Penulisan
-1. Menjelaskan kasus ransomware BSI secara sistematis.
-2. Menganalisis fokus utama soal dosen: BCP/DRP, transparansi, dan dampak nasabah.
-3. Menjelaskan hubungan keamanan siber dengan etika profesi.
-4. Menjelaskan aspek hukum perlindungan data.
-5. Memberikan rekomendasi perbaikan.
+DAFTAR PUSTAKA ......................................................... 13
+```
 
-- [Laporan Etika Profesi_Kelompok 1.pdf](https://github.com/user-attachments/files/27114470/Laporan.Etika.Profesi_Kelompok.1.pdf)
-- [PPT_Etika Profesi_Kelompok 1.pdf](https://github.com/user-attachments/files/27114463/PPT_Etika.Profesi_Kelompok.1.pdf)
+tachments/files/27114463/PPT_Etika.Profesi_Kelompok.1.pdf)
