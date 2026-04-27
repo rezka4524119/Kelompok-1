@@ -89,7 +89,7 @@ BCP adalah rencana strategis agar organisasi tetap dapat menjalankan fungsi utam
 DRP adalah rencana teknis untuk memulihkan sistem, server, aplikasi, dan data setelah terjadi insiden. DRP berfokus pada proses recovery agar operasional dapat kembali normal secepat mungkin. 
 
 ## 2.5 Transparansi Publik  
-Transparansi publik adalah keterbukaan informasi kepada pengguna layanan terkait gangguan, risiko, dan langkah penanganan. Dalam sektor keuangan, transparansi sangat penting untuk menjaga kepercayaan nasabah. 
+Transparansi publik adalah keterbukaan informasi kepada pengguna layanan terkait gangguan, risiko, dan langkah penanganan. Dalam sektor keuangan, transparansi sangat penting untuk menjaga kepercayaan nasabah.
 ---
 
 # BAB III ANALISIS KASUS DAN PEMBAHASAN
