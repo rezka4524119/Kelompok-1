@@ -24,4 +24,19 @@ Selain itu, diduga terjadi kebocoran data sebesar 1,5 TB yang mencakup data nasa
 
 ## File dalam Repository
 - Laporan Etika Profesi_Kelompok 1.pdf  
-- PPT_Etika Profesi_Kelompok 1.pdf  
+- PPT_Etika Profesi_Kelompok 1.pdf
+  
+---
+
+## BAB V PENUTUP
+
+### 5.1 Kesimpulan
+Serangan ransomware terhadap BSI pada Mei 2023 bukan sekadar gangguan teknis, tetapi krisis besar yang menyangkut keamanan informasi, layanan publik, perlindungan data, etika profesi, kepatuhan hukum, dan kepercayaan masyarakat.  
+
+Lembaga keuangan wajib memiliki keamanan siber yang kuat, BCP/DRP yang matang, SDM kompeten, serta komunikasi yang jujur dan cepat agar kepercayaan publik tetap terjaga.
+
+### 5.2 Saran
+1. Bank harus meningkatkan investasi keamanan siber.  
+2. Audit dan simulasi insiden dilakukan berkala.  
+3. Edukasi pegawai dan nasabah harus diperkuat.  
+4. Kepatuhan hukum dan etika profesi harus menjadi prioritas.  
