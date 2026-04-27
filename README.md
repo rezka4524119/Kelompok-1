@@ -26,9 +26,10 @@ Selain itu, diduga terjadi kebocoran data sebesar 1,5 TB yang mencakup data nasa
 - Laporan Etika Profesi_Kelompok 1.pdf  
 - PPT_Etika Profesi_Kelompok 1.pdf
 
-
 ## BAB I PENDAHULUAN ##
 **Ransomware Bank Syariah Indonesia (BSI) — Mei 2023**
 **Ransomware Bank Syariah Indonesia (BSI) — Mei 2023**
 **Ransomware Bank Syariah Indonesia (BSI) — Mei 2023**
 
+- [Laporan Etika Profesi_Kelompok 1.pdf](https://github.com/user-attachments/files/27114470/Laporan.Etika.Profesi_Kelompok.1.pdf)
+- [PPT_Etika Profesi_Kelompok 1.pdf](https://github.com/user-attachments/files/27114463/PPT_Etika.Profesi_Kelompok.1.pdf)
