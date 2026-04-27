@@ -7,7 +7,7 @@ Studi Kasus: Ransomware Bank Syariah Indonesia (BSI) — Mei 2023
 
 ---
 
-# Informasi Tambahan
+# Dosen Pengampu
 Dosen Pengampu: Adi Wahyu Pribadi, S.Si., M.Kom
 
 # Deskripsi Kasus
