@@ -45,8 +45,5 @@ Komunikasi:
 7. Pencegahan lebih murah daripada pemulihan.
 ---
 
----
-
-# DAFTAR PUSTAKA
 
 
