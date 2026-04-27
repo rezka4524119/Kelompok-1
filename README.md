@@ -28,4 +28,7 @@ Selain itu, diduga terjadi kebocoran data sebesar 1,5 TB yang mencakup data nasa
 
 
 ## BAB I PENDAHULUAN ##
-#......$#
+**Ransomware Bank Syariah Indonesia (BSI) — Mei 2023**
+**Ransomware Bank Syariah Indonesia (BSI) — Mei 2023**
+**Ransomware Bank Syariah Indonesia (BSI) — Mei 2023**
+
