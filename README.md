@@ -51,5 +51,23 @@ Sistem digital memberikan kecepatan, efisiensi, dan kemudahan bagi masyarakat. N
 
 Pada Mei 2023, BSI mengalami gangguan besar yang diduga akibat serangan ransomware LockBit 3.0. Gangguan berlangsung selama beberapa hari dan menimbulkan dugaan kebocoran data sekitar 1,5 TB. Kasus ini menjadi perhatian nasional karena menyangkut keamanan data, layanan publik, kepercayaan masyarakat, dan tanggung jawab profesional di bidang teknologi informasi. Peristiwa tersebut menunjukkan bahwa serangan siber dapat menimbulkan kerugian finansial, terganggunya aktivitas operasional, serta menurunnya reputasi perusahaan. Oleh sebab itu, diperlukan peningkatan sistem keamanan dan kesiapan penanganan insiden secara profesional.
 
+## 1.2 Rumusan Masalah
+1. Bagaimana kronologi kasus ransomware BSI pada Mei 2023?
+2. Apa yang dimaksud ransomware dan bagaimana cara kerjanya?
+3. Bagaimana tanggung jawab BCP (Business Continuity Plan) dan DRP (Disaster Recovery Plan) dalam kasus tersebut?
+4. Mengapa transparansi kepada publik sangat penting?
+5. Apa dampak gangguan layanan terhadap nasabah?
+6. Bagaimana analisis etika profesi dan hukum pada kasus ini?
+7. Apa solusi yang dapat diterapkan agar kasus serupa tidak terulang?
+
+---
+
+## 1.3 Tujuan Penulisan
+1. Menjelaskan kasus ransomware BSI secara sistematis.
+2. Menganalisis fokus utama sesuai arahan dosen: BCP/DRP, transparansi, dan dampak nasabah.
+3. Menjelaskan hubungan keamanan siber dengan etika profesi.
+4. Menjelaskan aspek hukum perlindungan data.
+5. Memberikan rekomendasi perbaikan.
+
 
 
