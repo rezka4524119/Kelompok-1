@@ -77,6 +77,7 @@ Dosen Pengampu: Adi Wahyu Pribadi, S.Si., M.Kom
 ## 4.1 Untuk Bank / Perusahaan
 
 Keamanan Teknis:
+
 ● MFA untuk admin.  
 ● Enkripsi data.  
 ● Patch sistem rutin.  
