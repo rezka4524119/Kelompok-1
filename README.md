@@ -1,6 +1,6 @@
-# Laporan Etika Profesi - Kelompok 1
+#Laporan Etika Profesi - Kelompok 1
 <p align="center">
-  <img src="logo up.png" width="150">
+  <img src="logo up.png" width="300">
 </p>
 ## Tema
 **Klaster A: Keamanan Siber & Kebocoran Data**
@@ -17,12 +17,13 @@ Selain itu, diduga terjadi kebocoran data sebesar 1,5 TB yang mencakup data nasa
 - Transparansi kepada publik
 - Dampak terhadap nasabah yang tidak dapat melakukan transaksi
 
-## Anggota Kelompok 1
-1. Rezka Talia Schalsabila (4524210119) — Ketua   
-2. Muhammad Al Farel Putra H (4524210113)  
-3. Ernan Wanasakti (4524210121) 
-4. Muhamad Habibi Alfarisi (4524210137)  
-5. Aufa Al Ghiyats Sulthan Priatmojo (4524210132)  
+<p align="center">
+  Rezka Talia Schalsabila (4524210119) — Ketua<br>
+  Muhammad Al Farel Putra H (4524210113)<br>
+  Ernan Wanasakti (4524210121)<br>
+  Muhamad Habibi Alfarisi (4524210137)<br>
+  Aufa Al Ghiyats Sulthan Priatmojo (4524210132)
+</p>
 
 ## File dalam Repository
 - Laporan Etika Profesi_Kelompok 1.pdf  
