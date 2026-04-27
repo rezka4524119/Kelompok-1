@@ -87,5 +87,5 @@ Dosen Pengampu: Adi Wahyu Pribadi, S.Si., M.Kom
 ---
 
 # DAFTAR PUSTAKA
-Tahun Ajaran: 2026 / 2027
+
 
