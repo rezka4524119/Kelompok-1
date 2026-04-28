@@ -62,9 +62,8 @@ Selain itu, diduga terjadi kebocoran data sebesar **1,5 TB** yang mencakup data 
 ---
 
 # BAB III ANALISIS KASUS DAN PEMBAHASAN
-# BAB III
 
-# ANALISIS KASUS DAN PEMBAHASAN
+
 
 ## 3.1 Profil Singkat BSI
 
