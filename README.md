@@ -41,7 +41,10 @@ Selain itu, diduga terjadi kebocoran data sebesar **1,5 TB** yang mencakup data 
 
 # DAFTAR ISI
 
-## KATA PENGANTAR  
+## KATA PENGANTAR
+
+Puji syukur ke hadirat Tuhan Yang Maha Esa atas segala rahmat dan karunia-Nya, sehingga laporan ini dapat disusun dengan baik dan tepat waktu. Laporan ini disusun sebagai bagian dari pemenuhan tugas mata kuliah Etika Profesi, yang secara khusus membahas topik Keamanan Siber dan Kebocoran Data di tengah maraknya ancaman digital saat ini. Pembahasan utama dalam laporan ini difokuskan pada kasus serangan ransomware yang menimpa Bank Syariah Indonesia (BSI) pada Mei 2023, sebuah insiden yang tidak hanya mengganggu operasional perbankan nasional, tetapi juga menyoroti kerentanan sistem keuangan di era transformasi digital. Laporan ini disusun berdasarkan arahan fokus soal dari dosen pengampu, yaitu analisis mendalam mengenai tanggung jawab Bank Syariah Indonesia dalam menerapkan Business Continuity Plan (BCP) dan Disaster Recovery Plan (DRP), tingkat transparansi informasi yang diberikan kepada publik selama krisis, serta dampak nyata terhadap jutaan nasabah yang mengalami ketidakmampuan bertransaksi secara online maupun offline selama periode tersebut. Melalui pembahasan ini, penulis berupaya menguraikan pelajaran berharga dari kejadian tersebut, termasuk urgensi penerapan standar etika profesi di bidang IT dan keamanan siber. Penulis berharap laporan ini tidak hanya dapat menambah pemahaman bagi pembaca mengenai pentingnya keamanan siber sebagai prioritas utama institusi keuangan, tetapi juga mendorong kesadaran kolektif tentang etika profesi Teknologi Informasi, perlindungan data pribadi sesuai regulasi seperti Undang-Undang Perlindungan Data Pribadi (UU PDP), serta strategi mitigasi risiko di era digital yang semakin kompleks. Kritik dan saran yang membangun sangat diharapkan untuk perbaikan lebih lanjut.
+---
 ## DAFTAR ISI  
 
 ---
