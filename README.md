@@ -40,12 +40,13 @@ Selain itu, diduga terjadi kebocoran data sebesar **1,5 TB** yang mencakup data 
  
 
 # DAFTAR ISI
+---
 
 ## KATA PENGANTAR
 
 Puji syukur ke hadirat Tuhan Yang Maha Esa atas segala rahmat dan karunia-Nya, sehingga laporan ini dapat disusun dengan baik dan tepat waktu. Laporan ini disusun sebagai bagian dari pemenuhan tugas mata kuliah Etika Profesi, yang secara khusus membahas topik Keamanan Siber dan Kebocoran Data di tengah maraknya ancaman digital saat ini. Pembahasan utama dalam laporan ini difokuskan pada kasus serangan ransomware yang menimpa Bank Syariah Indonesia (BSI) pada Mei 2023, sebuah insiden yang tidak hanya mengganggu operasional perbankan nasional, tetapi juga menyoroti kerentanan sistem keuangan di era transformasi digital. Laporan ini disusun berdasarkan arahan fokus soal dari dosen pengampu, yaitu analisis mendalam mengenai tanggung jawab Bank Syariah Indonesia dalam menerapkan Business Continuity Plan (BCP) dan Disaster Recovery Plan (DRP), tingkat transparansi informasi yang diberikan kepada publik selama krisis, serta dampak nyata terhadap jutaan nasabah yang mengalami ketidakmampuan bertransaksi secara online maupun offline selama periode tersebut. Melalui pembahasan ini, penulis berupaya menguraikan pelajaran berharga dari kejadian tersebut, termasuk urgensi penerapan standar etika profesi di bidang IT dan keamanan siber. Penulis berharap laporan ini tidak hanya dapat menambah pemahaman bagi pembaca mengenai pentingnya keamanan siber sebagai prioritas utama institusi keuangan, tetapi juga mendorong kesadaran kolektif tentang etika profesi Teknologi Informasi, perlindungan data pribadi sesuai regulasi seperti Undang-Undang Perlindungan Data Pribadi (UU PDP), serta strategi mitigasi risiko di era digital yang semakin kompleks. Kritik dan saran yang membangun sangat diharapkan untuk perbaikan lebih lanjut.
 ---
-## DAFTAR ISI  
+  
 
 ---
 
@@ -97,15 +98,118 @@ Transparansi publik adalah keterbukaan informasi kepada pengguna layanan terkait
 ---
 
 # BAB III ANALISIS KASUS DAN PEMBAHASAN
-## 3.1 Profil Singkat BSI  
-## 3.2 Kronologi Kasus  
-## 3.3 Analisis Tanggung Jawab BCP  
-## 3.4 Analisis Tanggung Jawab DRP  
-## 3.5 Analisis Transparansi Publik  
-## 3.6 Dampak terhadap Nasabah  
-## 3.7 Analisis Etika Profesi  
-## 3.8 Analisis Hukum  
+## 3.1 Profil Singkat BSI
+Bank Syariah Indonesia merupakan bank syariah terbesar di Indonesia yang terbentuk dari merger BRI Syariah, BNI Syariah, dan Bank Syariah Mandiri. BSI melayani jutaan nasabah dan memiliki peran penting dalam sistem keuangan nasional.
 
+## 3.2 Kronologi Kasus
+Pada 8 Mei 2023, nasabah mulai melaporkan gangguan pada aplikasi BSI Mobile, ATM, dan beberapa transaksi digital. Pada 9–11 Mei 2023, gangguan berlanjut sehingga nasabah tidak dapat login, transfer, tarik tunai, cek saldo, dan membayar tagihan. Setelah gangguan meluas, kelompok LockBit 3.0 mengklaim bertanggung jawab atas serangan tersebut dan menyatakan telah mengambil sekitar 1,5 TB data internal, termasuk dugaan data pelanggan dan karyawan.
+
+## 3.3 Analisis Tanggung Jawab BCP
+Dalam kasus ini, BCP menjadi fokus utama karena layanan bank sempat lumpuh selama beberapa hari. BCP yang baik seharusnya menjamin:
+● Layanan dasar tetap tersedia.  
+● Nasabah tetap bisa melakukan transaksi penting.  
+● Operasional cabang tetap berjalan.  
+● Komunikasi darurat aktif.  
+● Gangguan dapat diminimalkan.  
+
+5 Komponen BCP yang ideal:
+● Server cadangan.  
+● Data center alternatif.  
+● Jalur transaksi pengganti.  
+● SOP darurat.  
+● Tim manajemen krisis.  
+● Simulasi berkala.  
+
+Analisis: Lamanya gangguan menunjukkan bahwa implementasi BCP perlu diperkuat. Bank harus mampu menyediakan layanan minimum walaupun sistem utama diserang.
+
+## 3.4 Analisis Tanggung Jawab DRP
+DRP sangat penting setelah insiden terjadi karena berfungsi memulihkan sistem.
+
+Isi DRP:
+● Backup data berkala.  
+● Restore server.  
+● Recovery database.  
+● Failover system.  
+● Uji pemulihan rutin.  
+
+Jika pemulihan berlangsung lama, berarti perlu evaluasi pada:
+● Kecepatan respon insiden.  
+● Kesiapan backup.  
+● Infrastruktur cadangan.  
+● Koordinasi tim teknis.  
+● Kualitas simulasi sebelumnya.  
+
+6 Analisis: DRP yang matang akan mempercepat kembalinya layanan dan mengurangi kerugian perusahaan maupun nasabah.
+
+## 3.5 Analisis Transparansi kepada Publik
+Pada awal gangguan, informasi yang diterima publik adalah maintenance sistem. Namun berkembang dugaan serangan siber. Transparansi penting karena:
+1. Menjaga kepercayaan nasabah.  
+2. Mencegah rumor dan hoaks.  
+3. Bentuk tanggung jawab moral.  
+4. Memberi arahan tindakan kepada nasabah.  
+
+Informasi yang ideal disampaikan:
+● Jenis gangguan.  
+● Layanan terdampak.  
+● Status pemulihan.  
+● Risiko data bocor.  
+● Langkah mitigasi.  
+● Kontak bantuan resmi.  
+
+Analisis: Dalam krisis, komunikasi yang jelas dan cepat sama pentingnya dengan perbaikan teknis.
+
+## 3.6 Dampak terhadap Nasabah
+
+A. Dampak Finansial  
+● Tidak bisa transfer uang.  
+● Pembayaran tertunda.  
+● Bisnis terganggu.  
+● Keterlambatan gaji.  
+● Kehilangan peluang transaksi.  
+
+B. Dampak Operasional  
+● ATM terganggu.  
+● Mobile banking tidak dapat digunakan.  
+● Antrean cabang meningkat.  
+● Customer service overload.  
+
+C. Dampak Psikologis  
+● Panik.  
+● Cemas.  
+● Bingung.  
+● Turunnya rasa aman.  
+
+D. Dampak Privasi  
+Jika data bocor, nasabah berisiko mengalami:
+● Phishing.  
+● Penipuan online.  
+● Spam.  
+
+8  
+
+## 3.7 Analisis Etika Profesi
+Menurut kode etik ACM dan IEEE, profesional TI wajib:
+● Avoid Harm (tidak merugikan masyarakat).  
+● Protect Privacy (melindungi data pengguna).  
+● Honesty (jujur dan transparan).  
+● Professional Competence (kompeten).  
+● Responsibility (bertanggung jawab).  
+
+Kasus BSI membuktikan bahwa keamanan siber bukan hanya persoalan teknis, tetapi juga persoalan etika profesi.
+
+## 3.8 Analisis Hukum
+Menurut UU ITE, sistem elektronik wajib andal, aman, dan bertanggung jawab. Menurut UU PDP, jika data pribadi terdampak maka pengendali data wajib:
+● Melindungi data pengguna.  
+● Memberi notifikasi insiden.  
+● Melakukan mitigasi.  
+● Mencegah kerugian lanjutan.  
+● Memperbaiki sistem keamanan.  
+
+Risiko jika lalai:
+● Sanksi administratif.  
+● Gugatan hukum.  
+● Kerusakan reputasi.  
+● Hilangnya kepercayaan publik
 ---
 
 # BAB IV SOLUSI DAN REKOMENDASI
