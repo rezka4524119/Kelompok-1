@@ -455,3 +455,4 @@ Lembaga keuangan wajib memiliki keamanan siber yang kuat, BCP/DRP yang matang, S
 - Republik Indonesia. (2008). *Undang-Undang Informasi dan Transaksi Elektronik (UU ITE)*.  
 - IBM. (2023). *Cost of a Data Breach Report*.  
 - Kaspersky. (2023). *Ransomware Threat Report*.  
+https://youtu.be/HdbA1hOB_H4?si=bTTttvaJVbjRKsRq
